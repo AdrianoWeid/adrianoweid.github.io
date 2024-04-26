@@ -2,8 +2,7 @@
 layout: page
 title: CLI-Satellitetracker
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/cli_satellitestracker_logo.jpg
 importance: 1
 category: fun
 ---

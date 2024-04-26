@@ -6,7 +6,7 @@ subtitle: Software Engineer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>57520 Niederdreisbach, Germany</p>

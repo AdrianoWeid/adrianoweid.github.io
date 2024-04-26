@@ -2,7 +2,7 @@
 layout: page
 title: SLAM
 description: simultaneous localization and mapping 
-img: assets/img/1.jpg
+img: assets/img/slam_logo.jpg
 importance: 2
 category: fun
 ---
