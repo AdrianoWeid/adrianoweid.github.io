@@ -29,12 +29,11 @@
   "education": [
     {
       "institution": "BBS Technik Siegen",
-      "location": "Siegen, Germany",
+      "location": "Siegen,Germany",
       "url": "https://bbs-technik-siegen.de",
       "area": "Technik",
-      "studyType": "Vocational Training",
       "startDate": "2021-08-01",
-      "endDate": "expected 2024",
+      "endDate": "2024",
       "courses": ["Software Development", "Computer Science"]
     }
   ],

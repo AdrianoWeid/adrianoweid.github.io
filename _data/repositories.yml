@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - AdrianoWeid
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AdrianoWeid/cli-satellites
+  - AdrianoWeid/slam
+  - AdrianoWeid/tinygrad
+  - AdrianoWeid/adrianoweid-github.io
