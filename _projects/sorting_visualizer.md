@@ -2,7 +2,7 @@
 layout: page
 title: Sorting-Visualizer
 description: A visualization of different sorting algorithms.
-img: assets/img/sorting_visualizer.png
+img: assets/img/sorting_visualizer/sorting_visualizer.png
 importance: 2
 category: fun
 ---
