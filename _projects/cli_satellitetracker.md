@@ -19,6 +19,16 @@ CLI-Satellitetracker is a command-line interface application designed for search
     This is a video, showcasing the Satellite Tracker.
 </div>
 
+### Installation
+```zsh
+git clone https://github.com/AdrianoWeid/cli-satellites.git
+cd cli-satellites
+python -m venv venv
+source venv/bin/activate
+venv\Scripts\activate
+pip install -r requirements.txt
+echo "N2YO_API_KEY=APIKEY" > .env #your N2YO API key
+```
 ### To-Do List for Further Development
 - **Enhance Search Functionality:** Implement search options to allow users to find satellites based on different parameters like name, orbit type, mission, or launch date.
 - **Improve Error Handling:** Develop better error handling mechanisms to provide clearer feedback to users when searches fail or invalid data is entered.
