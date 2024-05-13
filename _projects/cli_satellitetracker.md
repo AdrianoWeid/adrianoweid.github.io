@@ -10,9 +10,9 @@ category: fun
 
 CLI-Satellitetracker is a command-line interface application designed for searching and retrieving information about satellites.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-    {% include video.liquid path="assets/video/cli_satellite.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/cli_satellite.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
